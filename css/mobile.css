@@ -5,3 +5,20 @@
   overflow: hidden;
   height: 90px;
 }
+
+#training .items {
+  flex-direction: column;
+}
+
+#training .items .item {
+  width: 100%;
+}
+
+.courses .course {
+  flex-direction: column;
+}
+
+.courses .course .course-info {
+  padding-top: 0.3rem;
+  padding-left: 0;
+}
